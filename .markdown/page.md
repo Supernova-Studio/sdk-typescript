@@ -166,7 +166,7 @@ Price
 [![Typography](https://studio-assets-dev.supernova.io/design-systems/1956/ad731d61-3e3c-44e5-a290-e88033b1cee5.png?Expires=1972252800&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLWRldi5zdXBlcm5vdmEuaW8vZGVzaWduLXN5c3RlbXMvMTk1Ni9hZDczMWQ2MS0zZTNjLTQ0ZTUtYTI5MC1lODgwMzNiMWNlZTUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTcyMjUyODAwfX19XX0_&Signature=Y9CAP0oFgj5~yzvBINqJM2R2nTOM1HnkrAnmRuKoeDV839tO~PvJiaNjJVTdRPySNmt8-z1aflxK2tku2GbgRJ1AsQQZeN1uxZATbl34dN-5x2DSU~fbq8pEK983Vy3cuF6Oq0urPBBL-cTelRdJlocE-h-AQU2b~zA3liCFNYBMArriUzm6w7CA1XoGkmCKIPYTs~o9f~XRaE1bxWBMZMegETYfwHCNwjJ3dGDXWjV0UT88NHWCNu0igM-fawqhgm1HMcVCiE-qSefyP1c1mK4v~3JDfwdM7wike0nxyCxe1B7R9ywNXrnF~2xC2ftmTEfc1kwOSCYhh4OIPkdg9g__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)](./foundations/typography.html)  
 Typography  
   
-[Design](./components/button/design-1.html)  
+[Tools and magic](./resources/tools-and-magic.html)  
   
 [Design tokens](./resources/design-tokens.html)  
   

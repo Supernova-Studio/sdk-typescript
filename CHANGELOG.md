@@ -2,6 +2,43 @@
 
 All notable changes to this SDK are mentioned here in this changelog.
 
+## [1.7.24] - 2022-15-07
+### Markdown transformation tool (preview)
+
+Markdown transformer is now out of the preview. It allows transformation of all pieces of information from your documentation into commonmark markdown. To use markdown transformer, simply request transformation through the new utility object, `MarkdownTransform`, now available also through SDK external tooling.
+
+
+```typescript
+// Fetch specific design system version
+let version = await supernova.designSystemVersion(DS_ID, DS_VERSION_ID)
+
+// Fetch documentation pages needed for the index construction
+let docs = await version.documentation()
+let pages = await docs.pages()
+
+// Construct markdown transformer with one of the available modes
+let transformer = new MarkdownTransform(MarkdownTransformType.commonmark)
+let pageAsMarkdown = transformer.convertPageToMarkdown(pages[0])
+
+/*
+
+Your result will look similar to this (depending on content)
+
+# Page Title
+
+Page description
+
+Block 1 content
+## Block 2 content
+- Block 3 content
+1. Block 4 content
+
+...
+
+*/
+
+```
+
 ## [1.7.23] - 2022-28-07
 ### Added quick accessors for complex URLs
 
